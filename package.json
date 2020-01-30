@@ -1,0 +1,31 @@
+{
+  "name": "lab-08-express-routing-connected-api",
+  "version": "1.0.0",
+  "description": "Server Routing",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "mongoose": "^5.8.10",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --coverage",
+    "test-watch": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Shubham/Lab-08-Express-Routing-Connected-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Shubham/Lab-08-Express-Routing-Connected-API/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Shubham/Lab-08-Express-Routing-Connected-API#readme"
+}
